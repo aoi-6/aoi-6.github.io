@@ -13,8 +13,8 @@ p {
 }
 
 #video {
-    height: 1080px;
-    width: 1920px;
+    height: 950px;
+    width: auto;
 }
 
 .btn,
